@@ -5,6 +5,8 @@ This is a simple software to control your android device over adb. The qt versio
 Orginally version written by kjanku1 (https://github.com/kjanku1/WindowsApplication1)
 This Software use droidAtScreen (which wasn't made by me) -> http://droid-at-screen.ribomation.com/
 
+Modified to compile on Fedora
+
 # License
 
 > Copyright (c) 2014 ternes3 / reBTSOFT
@@ -33,8 +35,8 @@ This Software use droidAtScreen (which wasn't made by me) -> http://droid-at-scr
 
 # Dependencies
 
-* libboost-all-dev
-* libqt4-dev	
+* boost-devel
+* qt-devel	
 
 # Build
 
